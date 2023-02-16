@@ -86,6 +86,11 @@ main ul > li > a:hover {
 
 }
 
+main mark {
+    background-color: rgb(30, 214, 30);
+
+}
+
 footer {
     background-color: rgb(31, 128, 31);
 
