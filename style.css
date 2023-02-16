@@ -74,6 +74,11 @@ main ul {
 
 }
 
+main li {
+    margin-bottom: 5px;
+
+}
+
 main ul > li.lista-exp {
     font-size: 18px;
 
